@@ -1,0 +1,1 @@
+emacsclientw --eval "(kill-emacs)"
