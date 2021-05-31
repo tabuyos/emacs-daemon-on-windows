@@ -18,7 +18,7 @@ step 3: open your `emacsclientw` and test it!
 
 ## Batch Version
 
-step 1: add [start-emacs.bat](./Batch/start-emacs.bat) to boot up.
+step 1: add [start-emacs.bat](./batch/start-emacs.bat) to boot up.
 
 step 2: open your `emacsclientw` and test it!
 
